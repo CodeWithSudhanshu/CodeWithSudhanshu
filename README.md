@@ -8,12 +8,12 @@ Building intelligent solutions, exploring modern web technologies, and solving r
 
 ## 🚀 About Me
 
-* 🤖 Working on **Industrial Plume Detection using YOLOv8**
-* 🌐 Learning **Full-Stack Development (MERN)**
-* 💻 Passionate about **Software Engineering, AI, and Computer Vision**
-* 🔓 Active in **Open Source Contributions**
-* 📈 Continuously improving through **DSA and Project Building**
-* 🎯 Focused on creating impactful, real-world applications
+*  Working on **Industrial Plume Detection using YOLOv8**
+*  Learning **Full-Stack Development (MERN)**
+*  Passionate about **Software Engineering, AI, and Computer Vision**
+*  Active in **Open Source Contributions**
+*  Continuously improving through **DSA and Project Building**
+*  Focused on creating impactful, real-world applications
 
 ---
 
@@ -94,7 +94,7 @@ Data analysis and visualization project exploring IPL trends and performance ins
 
 * MERN Stack
 * System Design Fundamentals
-* Advanced DSA
+* DSA
 * Computer Vision & Deep Learning
 
 ---
@@ -109,14 +109,9 @@ Data analysis and visualization project exploring IPL trends and performance ins
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sudhanshu8sharma/)
 
-📧 YOUR_EMAIL
+📧 sudhanshutech12@gmail.com
 
 ---
 
-### 💡 Quote I Live By
-
-> "Code • Learn • Build • Repeat"
-
-⭐ If you like my work, consider checking out my repositories and connecting with me!
