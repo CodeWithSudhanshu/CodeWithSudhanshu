@@ -1,4 +1,4 @@
-# Hi there , I'm Sudhanshu Sharma
+# Hi there 👋, I'm Sudhanshu Sharma
 
 ### Software Development • AI • Computer Vision • Open Source
 
@@ -62,33 +62,47 @@ Building intelligent solutions, exploring modern web technologies, and solving r
 
 ## 📌 Featured Projects
 
-###  Industrial Plume Detection
+### 🚀 Industrial Plume Detection
 
 AI-powered industrial smoke/plume detection using YOLOv8 and Computer Vision.
 
-###  AI-Based Customer Segmentation
+### 📊 AI-Based Customer Segmentation
 
 Customer segmentation using K-Means and Hierarchical Clustering with interactive Streamlit dashboards.
 
-###  News Sentiment Analyzer
+### 📰 News Sentiment Analyzer
 
 Web scraping and NLP-based sentiment analysis of live news headlines using BeautifulSoup and TextBlob.
 
-###  Movie Recommendation System
+### 🎬 Movie Recommendation System
 
-Recommendation engine built using machine learning concepts to suggest relevant movies based on user preferences.
+Recommendation engine built using collaborative filtering and machine learning concepts.
 
-###  IPL Data Analytics
+### 🏏 IPL Data Analytics
 
 Data analysis and visualization project exploring IPL trends and performance insights.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=tokyonight\&no-frame=true\&row=1\&column=7)
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)
 
 ---
 
@@ -103,8 +117,9 @@ Data analysis and visualization project exploring IPL trends and performance ins
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/sudhanshu8sharma/
-* Email: sudhanshutech12@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sudhanshu8sharma/))
+
+📧 YOUR_EMAIL - sudhanshutech12@gmail.com
 
 ---
 
