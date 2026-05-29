@@ -8,12 +8,12 @@ Building intelligent solutions, exploring modern web technologies, and solving r
 
 ## 🚀 About Me
 
-*  Working on **Industrial Plume Detection using YOLOv8**
-*  Learning **Full-Stack Development (MERN)**
-*  Passionate about **Software Engineering, AI, and Computer Vision**
-*  Active in **Open Source Contributions**
-*  Continuously improving through **DSA and Project Building**
-*  Focused on creating impactful, real-world applications
+* 🤖 Working on **Industrial Plume Detection using YOLOv8**
+* 🌐 Learning **Full-Stack Development (MERN)**
+* 💻 Passionate about **Software Engineering, AI, and Computer Vision**
+* 🔓 Active in **Open Source Contributions**
+* 📈 Continuously improving through **DSA and Project Building**
+* 🎯 Focused on creating impactful, real-world applications
 
 ---
 
@@ -84,9 +84,17 @@ Data analysis and visualization project exploring IPL trends and performance ins
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithsudhanshu&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithSudhanshu&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSudhanshu&layout=compact&theme=github_dark&hide_border=true)
 
 ---
+
+## 📈 Contribution Graph
+
+[![Sudhanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSudhanshu\&bg_color=0d1117\&color=58a6ff\&line=58a6ff\&point=f85149\&area=true\&hide_border=true)](https://github.com/CodeWithSudhanshu)
 
 ---
 
@@ -94,7 +102,7 @@ Data analysis and visualization project exploring IPL trends and performance ins
 
 * MERN Stack
 * System Design Fundamentals
-* DSA
+* Advanced DSA
 * Computer Vision & Deep Learning
 
 ---
@@ -109,12 +117,14 @@ Data analysis and visualization project exploring IPL trends and performance ins
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sudhanshu8sharma/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
 
-📧 sudhanshutech12@gmail.com
+📧 YOUR_EMAIL
 
 ---
 
+### 💡 Quote I Live By
 
+> "Code • Learn • Build • Repeat"
 
 ⭐ If you like my work, consider checking out my repositories and connecting with me!
