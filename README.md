@@ -88,10 +88,6 @@ Data analysis and visualization project exploring IPL trends and performance ins
 
 ---
 
-## 📈 Contribution Graph
-
-[![Sudhanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSudhanshu\&bg_color=0d1117\&color=58a6ff\&line=58a6ff\&point=f85149\&area=true\&hide_border=true)](https://github.com/CodeWithSudhanshu)
-
 ---
 
 ## 🌱 Currently Learning
