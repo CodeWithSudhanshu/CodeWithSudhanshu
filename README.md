@@ -86,23 +86,16 @@ Data analysis and visualization project exploring IPL trends and performance ins
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=tokyonight\&no-frame=true\&row=1\&column=7)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeWithSudhanshu&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSudhanshu&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)
+[![Sudhanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSudhanshu\&bg_color=0d1117\&color=58a6ff\&line=58a6ff\&point=f85149\&area=true\&hide_border=true)](https://github.com/CodeWithSudhanshu)
 
 ---
 
@@ -115,11 +108,22 @@ Data analysis and visualization project exploring IPL trends and performance ins
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Open Source
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sudhanshu8sharma/))
-
-📧 YOUR_EMAIL - sudhanshutech12@gmail.com
+* Contributed to multiple open-source repositories
+* Created and merged pull requests across various projects
+* Actively exploring collaborative software development
 
 ---
 
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sudhanshu8sharma/)
+
+📧 sudhanshutech12@gmail.com
+
+---
+
+
+
+⭐ If you like my work, consider checking out my repositories and connecting with me!
