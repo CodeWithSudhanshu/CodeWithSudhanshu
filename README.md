@@ -84,11 +84,7 @@ Data analysis and visualization project exploring IPL trends and performance ins
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=CodeWithSudhanshu&show_icons=true&theme=github_dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSudhanshu&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithsudhanshu&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
