@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CodeWithSudhanshu/CodeWithSudhanshu/main/githubgif.gif" width="100%">
+</p>
+
 # Hi there 👋, I'm Sudhanshu Sharma
 
 ### Software Development • AI • Computer Vision • Open Source
