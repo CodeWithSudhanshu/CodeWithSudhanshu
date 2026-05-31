@@ -8,9 +8,17 @@
 AI & Computer Vision Enthusiast • Software Developer • Open Source Contributor
 </h3>
 
-### Software Development • AI • Computer Vision • Open Source
+<br>
 
+<div align="center">
+
+<h2>Software Development • AI • Computer Vision • Open Source</h2>
+
+<p>
 Building intelligent solutions, exploring modern web technologies, and solving real-world problems through technology.
+</p>
+
+</div>
 
 ---
 
