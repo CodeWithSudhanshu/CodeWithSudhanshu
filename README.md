@@ -64,23 +64,23 @@ Building intelligent solutions, exploring modern web technologies, and solving r
 
 ---
 
-🚀 Industrial Plume Detection
+🚀** Industrial Plume Detection**
 
 YOLOv8-powered computer vision system for detecting industrial smoke/plume emissions from industrial sites.
 
-📊 AI-Based Customer Segmentation
+📊** AI-Based Customer Segmentation**
 
 Customer segmentation using K-Means and Hierarchical Clustering with interactive Streamlit visualizations.
 
-📰 News Sentiment Analyzer
+📰** News Sentiment Analyzer**
 
 Web scraping and sentiment analysis pipeline using BeautifulSoup, TextBlob and Matplotlib.
 
-🎬 Movie Recommendation System
+🎬 **Movie Recommendation System**
 
 Collaborative filtering based recommendation engine for personalized movie suggestions.
 
-🏏 IPL Data Analytics
+🏏 **IPL Data Analytics**
 
 Data analysis and visualization project exploring IPL trends and performance insights.
 
