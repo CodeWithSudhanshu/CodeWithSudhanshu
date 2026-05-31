@@ -4,21 +4,17 @@
 
 <h1 align="center">Hi there 👋, I'm Sudhanshu Sharma</h1>
 
-<h3 align="center">
-AI & Computer Vision Enthusiast • Software Developer • Open Source Contributor
-</h3>
-
-<br>
-
-<div align="center">
-
-<h2>Software Development • AI • Computer Vision • Open Source</h2>
-
-<p>
-Building intelligent solutions, exploring modern web technologies, and solving real-world problems through technology.
+<p align="center">
+<b>AI & Computer Vision Enthusiast • Software Developer • Open Source Contributor</b>
 </p>
 
-</div>
+<p align="center">
+<b>Software Development • AI • Computer Vision • Open Source</b>
+</p>
+
+<p align="center">
+Building intelligent solutions, exploring modern web technologies, and solving real-world problems through technology.
+</p>
 
 ---
 
