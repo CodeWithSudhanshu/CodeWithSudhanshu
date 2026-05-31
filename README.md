@@ -64,38 +64,38 @@ Building intelligent solutions, exploring modern web technologies, and solving r
 
 ---
 
-## 📌 Featured Projects
+🚀 Industrial Plume Detection
 
-### 🚀 Industrial Plume Detection
+YOLOv8-powered computer vision system for detecting industrial smoke/plume emissions from industrial sites.
 
-AI-powered industrial smoke/plume detection using YOLOv8 and Computer Vision.
+📊 AI-Based Customer Segmentation
 
-### 📊 AI-Based Customer Segmentation
+Customer segmentation using K-Means and Hierarchical Clustering with interactive Streamlit visualizations.
 
-Customer segmentation using K-Means and Hierarchical Clustering with interactive Streamlit dashboards.
+📰 News Sentiment Analyzer
 
-### 📰 News Sentiment Analyzer
+Web scraping and sentiment analysis pipeline using BeautifulSoup, TextBlob and Matplotlib.
 
-Web scraping and NLP-based sentiment analysis of live news headlines using BeautifulSoup and TextBlob.
+🎬 Movie Recommendation System
 
-### 🎬 Movie Recommendation System
+Collaborative filtering based recommendation engine for personalized movie suggestions.
 
-Recommendation engine built using collaborative filtering and machine learning concepts.
-
-### 🏏 IPL Data Analytics
+🏏 IPL Data Analytics
 
 Data analysis and visualization project exploring IPL trends and performance insights.
 
 ---
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/CodeWithSudhanshu/CodeWithSudhanshu/blob/output/github-snake-dark.svg)
 
 ## 📈 Contribution Graph
 
 [![Sudhanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSudhanshu\&bg_color=0d1117\&color=58a6ff\&line=58a6ff\&point=f85149\&area=true\&hide_border=true)](https://github.com/CodeWithSudhanshu)
 
 ---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/CodeWithSudhanshu/CodeWithSudhanshu/blob/output/github-snake-dark.svg)
+
 
 ## 🌱 Currently Learning
 
