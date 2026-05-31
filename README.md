@@ -83,6 +83,9 @@ Recommendation engine built using collaborative filtering and machine learning c
 Data analysis and visualization project exploring IPL trends and performance insights.
 
 ---
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/CodeWithSudhanshu/CodeWithSudhanshu/blob/output/github-snake-dark.svg)
 
 ## 📈 Contribution Graph
 
