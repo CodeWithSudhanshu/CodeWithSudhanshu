@@ -2,7 +2,11 @@
   <img src="https://raw.githubusercontent.com/CodeWithSudhanshu/CodeWithSudhanshu/main/githubgif.gif" width="100%">
 </p>
 
-# Hi there 👋, I'm Sudhanshu Sharma
+<h1 align="center">Hi there 👋, I'm Sudhanshu Sharma</h1>
+
+<h3 align="center">
+AI & Computer Vision Enthusiast • Software Developer • Open Source Contributor
+</h3>
 
 ### Software Development • AI • Computer Vision • Open Source
 
