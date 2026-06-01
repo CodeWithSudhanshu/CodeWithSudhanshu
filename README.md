@@ -94,15 +94,7 @@ Data analysis and visualization project exploring IPL trends and performance ins
 
 ---
 
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <a href="https://github.com/CodeWithSudhanshu">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSudhanshu&theme=github-dark&hide_border=true" />
-  </a>
-</p>
-
----
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSudhanshu&theme=react-dark)](https://github.com/CodeWithSudhanshu)
 
 ## 🐍 Contribution Snake
 
