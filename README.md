@@ -94,9 +94,13 @@ Data analysis and visualization project exploring IPL trends and performance ins
 
 ---
 
-## 📈 Contribution Graph
+<h2 align="center">📈 Contribution Graph</h2>
 
-[![Sudhanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSudhanshu\&bg_color=0d1117\&color=58a6ff\&line=58a6ff\&point=f85149\&area=true\&hide_border=true)](https://github.com/CodeWithSudhanshu)
+<p align="center">
+  <a href="https://github.com/CodeWithSudhanshu">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSudhanshu&theme=github-dark&hide_border=true" />
+  </a>
+</p>
 
 ---
 
