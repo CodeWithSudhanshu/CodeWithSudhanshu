@@ -94,7 +94,7 @@ Data analysis and visualization project exploring IPL trends and performance ins
 
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSudhanshu&theme=tokyo-night)](https://github.com/CodeWithSudhanshu)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSudhanshu&theme=github-dark)](https://github.com/CodeWithSudhanshu)
 
 ## 🐍 Contribution Snake
 
