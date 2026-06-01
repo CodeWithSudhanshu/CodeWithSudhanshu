@@ -93,8 +93,9 @@ Collaborative filtering based recommendation engine for personalized movie sugge
 Data analysis and visualization project exploring IPL trends and performance insights.
 
 ---
+## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSudhanshu&theme=github-dark)](https://github.com/CodeWithSudhanshu)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSudhanshu&theme=react-dark)](https://github.com/CodeWithSudhanshu)
 
 ## 🐍 Contribution Snake
 
