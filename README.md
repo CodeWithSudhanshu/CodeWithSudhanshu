@@ -112,6 +112,15 @@ Data analysis and visualization project exploring IPL trends and performance ins
   <img width="60%" src="https://streak-stats.demolab.com?user=CodeWithSudhanshu&theme=gruvbox&hide_border=true"/>
 </p>
 
+
+# 🏆 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/TcSW6y9ORP?theme=dark&font=Karma&ext=contest"/>
+
+</p>
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/CodeWithSudhanshu/CodeWithSudhanshu/blob/output/github-snake-dark.svg)
