@@ -39,10 +39,9 @@ Building intelligent solutions, exploring modern web technologies, and solving r
 - 🌱 Always learning, building, and sharing projects that solve real-world problems.
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
-<h3 align="center">Languages</h3>
-
+### Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -50,10 +49,7 @@ Building intelligent solutions, exploring modern web technologies, and solving r
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 </p>
 
-<br>
-
-<h3 align="center">AI & Data Science</h3>
-
+### AI & Data Science
 <p align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -63,10 +59,7 @@ Building intelligent solutions, exploring modern web technologies, and solving r
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-<br>
-
-<h3 align="center">Web Development</h3>
-
+### Web Development
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -76,19 +69,13 @@ Building intelligent solutions, exploring modern web technologies, and solving r
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-<br>
-
-<h3 align="center">Deployment & Cloud</h3>
-
+### Deployment & Cloud
 <p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-<br>
-
-<h3 align="center">Tools</h3>
-
+### Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -98,27 +85,17 @@ Building intelligent solutions, exploring modern web technologies, and solving r
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-### Tools
+---
 
-<p align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
-</p>
-###🌟 Featured Projects
+## 🌟 Featured Projects
 
 | 🚀 Project | 📝 Description | 💻 Tech |
 |------------|----------------|----------|
-| **[🚀 Industrial Plume Detection](https://github.com/CodeWithSudhanshu/Industrial-Plume-Detection)** | Designed and developed an AI-powered industrial emission monitoring system using YOLOv8 for real-time plume detection. The solution automates surveillance, enables early anomaly detection, and supports safer, smarter, and environmentally compliant industrial operations. | `YOLOv8` `OpenCV` `Python` |
-| **[📊 AI-Based Customer Segmentation](https://github.com/CodeWithSudhanshu/AI-Customer-Segmentation)** | Applied K-Means and Hierarchical Clustering to uncover customer segments, complemented by an interactive Streamlit dashboard for business insights. | `Scikit-learn` `Streamlit` |
-| **[📰 News Sentiment Analyzer](https://github.com/CodeWithSudhanshu/News-Sentiment-Analyzer)** | Built an end-to-end news analysis pipeline that scrapes articles, performs sentiment analysis, and visualizes public opinion trends. | `BeautifulSoup` `TextBlob` `Matplotlib` |
+| **[🚀 Industrial Plume Detection](https://github.com/CodeWithSudhanshu/Industrial-Plume-Detection)** | Designed and developed an AI-powered industrial emission monitoring system using **YOLOv8** for real-time plume detection. The solution automates surveillance, enables early anomaly detection, and supports safer, smarter, and environmentally compliant industrial operations. | `YOLOv8` `OpenCV` `Python` |
+| **[📊 AI-Based Customer Segmentation](https://github.com/CodeWithSudhanshu/AI-Customer-Segmentation)** | Built an interactive customer segmentation system using **K-Means** and **Hierarchical Clustering**, helping uncover meaningful customer groups through Streamlit visualizations. | `Scikit-learn` `Streamlit` |
+| **[📰 News Sentiment Analyzer](https://github.com/CodeWithSudhanshu/News-Sentiment-Analyzer)** | Developed an end-to-end news analytics pipeline that scrapes articles, performs sentiment analysis, and visualizes public opinion trends using NLP techniques. | `BeautifulSoup` `TextBlob` `Matplotlib` |
 
-> 💡 Click on any project name to explore the repository.
+> 💡 **Click on any project name to explore the repository.**
 
 ---
 <h2 align="center">📈 Contribution Graph</h2>
@@ -161,13 +138,6 @@ Building intelligent solutions, exploring modern web technologies, and solving r
 
 ---
 
-## 🤝 Open Source
-
-* Contributed to multiple open-source repositories
-* Created and merged pull requests across various projects
-* Actively exploring collaborative software development
-
----
 
 ## 📫 Connect With Me
 
