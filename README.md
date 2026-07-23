@@ -99,7 +99,7 @@ Building intelligent solutions, exploring modern web technologies, and solving r
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 </p>
-## 🌟 Featured Projects
+###🌟 Featured Projects
 
 | 🚀 Project | 📝 Description | 💻 Tech |
 |------------|----------------|----------|
