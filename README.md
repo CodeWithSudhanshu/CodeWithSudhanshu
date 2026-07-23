@@ -101,6 +101,18 @@ Data analysis and visualization project exploring IPL trends and performance ins
   </a>
 </p>
 
+# Github stats
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeWithSudhanshu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSudhanshu&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeWithSudhanshu&theme=github-dark&hide_border=true"/>
+</p>
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/CodeWithSudhanshu/CodeWithSudhanshu/blob/output/github-snake-dark.svg)
