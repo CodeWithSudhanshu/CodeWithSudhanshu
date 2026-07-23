@@ -72,25 +72,15 @@ Building intelligent solutions, exploring modern web technologies, and solving r
 
 ---
 
-🚀 **Industrial Plume Detection**
+## 🌟 Featured Projects
 
-YOLOv8-powered computer vision system for detecting industrial smoke/plume emissions from industrial sites.
+| 🚀 Project | 📝 Description | 💻 Tech |
+|------------|----------------|----------|
+| **[🚀 Industrial Plume Detection](https://github.com/CodeWithSudhanshu/Industrial-Plume-Detection)** | Designed and developed an AI-powered industrial emission monitoring system using YOLOv8 for real-time plume detection. The solution automates surveillance, enables early anomaly detection, and supports safer, smarter, and environmentally compliant industrial operations. | `YOLOv8` `OpenCV` `Python` |
+| **[📊 AI-Based Customer Segmentation](https://github.com/CodeWithSudhanshu/AI-Customer-Segmentation)** | Applied K-Means and Hierarchical Clustering to uncover customer segments, complemented by an interactive Streamlit dashboard for business insights. | `Scikit-learn` `Streamlit` |
+| **[📰 News Sentiment Analyzer](https://github.com/CodeWithSudhanshu/News-Sentiment-Analyzer)** | Built an end-to-end news analysis pipeline that scrapes articles, performs sentiment analysis, and visualizes public opinion trends. | `BeautifulSoup` `TextBlob` `Matplotlib` |
 
-📊 **AI-Based Customer Segmentation**
-
-Customer segmentation using K-Means and Hierarchical Clustering with interactive Streamlit visualizations.
-
-📰 **News Sentiment Analyzer**
-
-Web scraping and sentiment analysis pipeline using BeautifulSoup, TextBlob and Matplotlib.
-
-🎬 **Movie Recommendation System**
-
-Collaborative filtering based recommendation engine for personalized movie suggestions.
-
-🏏 **IPL Data Analytics**
-
-Data analysis and visualization project exploring IPL trends and performance insights.
+> 💡 Click on any project name to explore the repository.
 
 ---
 <h2 align="center">📈 Contribution Graph</h2>
