@@ -18,15 +18,25 @@ Building intelligent solutions, exploring modern web technologies, and solving r
 
 ---
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
+</p>
+
 ## 🚀 About Me
 
-- 👨‍💻 B.Tech student passionate about building intelligent software and solving real-world problems through technology.
-- 🤖 Developing AI-powered applications with a focus on **Computer Vision**, **Machine Learning**, and **Automation**.
+- 👨‍💻 Software Developer passionate about building intelligent products with **AI** and **Modern Web Technologies**.
+- 🤖 Developing AI-powered applications using **Computer Vision**, **Machine Learning**, and **Python**.
 - 🌐 Learning **Full-Stack Development (MERN)** to build scalable, end-to-end web applications.
-- 🧩 Strengthening my problem-solving skills through **Data Structures & Algorithms** and competitive programming.
-- 📖 Exploring **System Design**, **LLD**, **APIs**, and modern software engineering practices.
-- 🌱 Currently expanding my knowledge in **Agentic AI**, **LLMs**, and intelligent automation.
-- 🚀 Always building, always learning, and always looking for opportunities to create impactful projects.
+- 🧠 Strengthening my core software engineering skills through **DSA**, **System Design**, **LLD**, and **REST APIs**.
+- 🚀 Exploring **LLMs**, **Agentic AI**, and modern backend technologies.
+- 🌱 Always learning, building, and sharing projects that solve real-world problems.
 ---
 
 ## 🛠️ Tech Stack
