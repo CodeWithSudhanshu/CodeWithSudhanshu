@@ -20,13 +20,13 @@ Building intelligent solutions, exploring modern web technologies, and solving r
 
 ## 🚀 About Me
 
-*  Working on **Industrial Plume Detection using YOLOv8**
-*  Learning **Full-Stack Development (MERN)**
-*  Passionate about **Software Engineering, AI, and Computer Vision**
-*  Active in **Open Source Contributions**
-*  Continuously improving through **DSA and Project Building**
-*  Focused on creating impactful, real-world applications
-
+- 👨‍💻 B.Tech student passionate about building intelligent software and solving real-world problems through technology.
+- 🤖 Developing AI-powered applications with a focus on **Computer Vision**, **Machine Learning**, and **Automation**.
+- 🌐 Learning **Full-Stack Development (MERN)** to build scalable, end-to-end web applications.
+- 🧩 Strengthening my problem-solving skills through **Data Structures & Algorithms** and competitive programming.
+- 📖 Exploring **System Design**, **LLD**, **APIs**, and modern software engineering practices.
+- 🌱 Currently expanding my knowledge in **Agentic AI**, **LLMs**, and intelligent automation.
+- 🚀 Always building, always learning, and always looking for opportunities to create impactful projects.
 ---
 
 ## 🛠️ Tech Stack
