@@ -39,9 +39,9 @@ Building intelligent solutions, exploring modern web technologies, and solving r
 - 🌱 Always learning, building, and sharing projects that solve real-world problems.
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### Languages
+<h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -49,7 +49,7 @@ Building intelligent solutions, exploring modern web technologies, and solving r
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 </p>
 
-### AI & Data Science
+<h3 align="center">AI & Data Science</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -59,7 +59,7 @@ Building intelligent solutions, exploring modern web technologies, and solving r
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-### Web Development
+<h3 align="center">Web Development</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -69,13 +69,13 @@ Building intelligent solutions, exploring modern web technologies, and solving r
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### Deployment & Cloud
+<h3 align="center">Deployment & Cloud</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-### Tools
+<h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -84,7 +84,6 @@ Building intelligent solutions, exploring modern web technologies, and solving r
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
-
 ---
 
 ## 🌟 Featured Projects
