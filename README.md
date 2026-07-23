@@ -116,7 +116,7 @@ Data analysis and visualization project exploring IPL trends and performance ins
 ## 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/TcSW6y9ORP?theme=dark&font=JetBrains+Mono&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/CodeWithSudhanshu12?theme=dark&font=JetBrains+Mono&ext=heatmap" />
 </p>
 
 ## 🐍 Contribution Snake
