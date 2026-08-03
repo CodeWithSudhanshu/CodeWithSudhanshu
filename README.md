@@ -91,8 +91,10 @@ Building intelligent solutions, exploring modern web technologies, and solving r
 | 🚀 Project | 📝 Description | 💻 Tech |
 |------------|----------------|----------|
 | **[🚀 Industrial Plume Detection](https://github.com/CodeWithSudhanshu/Industrial-Plume-Detection)** | Designed and developed an AI-powered industrial emission monitoring system using **YOLOv8** for real-time plume detection. The solution automates surveillance, enables early anomaly detection, and supports safer, smarter, and environmentally compliant industrial operations. | `YOLOv8` `OpenCV` `Python` |
+| **[🦺 Edge AI Operator Safety System](https://github.com/nihirashh/Edge-AI-Operator-Safety-System)** | Designed and developed an AI-powered operator safety system using computer vision for real-time PPE compliance, fatigue detection, and hazard monitoring, enabling proactive accident prevention in industrial environments. | `Python` `OpenCV` `MediaPipe` `YOLOv8` |
 | **[📊 AI-Based Customer Segmentation](https://github.com/CodeWithSudhanshu/AI-Customer-Segmentation)** | Built an interactive customer segmentation system using **K-Means** and **Hierarchical Clustering**, helping uncover meaningful customer groups through Streamlit visualizations. | `Scikit-learn` `Streamlit` |
 | **[📰 News Sentiment Analyzer](https://github.com/CodeWithSudhanshu/News-Sentiment-Analyzer)** | Developed an end-to-end news analytics pipeline that scrapes articles, performs sentiment analysis, and visualizes public opinion trends using NLP techniques. | `BeautifulSoup` `TextBlob` `Matplotlib` |
+
 
 > 💡 **Click on any project name to explore the repository.**
 
