@@ -137,11 +137,50 @@ Building intelligent solutions, exploring modern web technologies, and solving r
 ---
 
 
-## 📫 Connect With Me
+## 🖥️ Coding Profiles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sudhanshu8sharma/)
+<p align="center">
 
-📧 sudhanshutech12@gmail.com
+<a href="https://github.com/CodeWithSudhanshu">
+<img src="https://img.shields.io/badge/GITHUB-CodeWithSudhanshu-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/CodeWithSudhanshu12/">
+<img src="https://img.shields.io/badge/LEETCODE-CodeWithSudhanshu12-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
 
 ---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sudhanshu8sharma/">
+<img src="https://img.shields.io/badge/LINKEDIN-Sudhanshu%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sudhanshutech12@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-sudhanshutech12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/CodeWithSudhanshu">
+<img src="https://img.shields.io/badge/GITHUB-CodeWithSudhanshu-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=CodeWithSudhanshu&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+<i>✨ Code. Learn. Build. Repeat. ✨</i>
+</p>
+
 
