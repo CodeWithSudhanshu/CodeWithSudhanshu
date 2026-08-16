@@ -106,15 +106,13 @@ Building intelligent solutions, exploring modern web technologies, and solving r
   </a>
 </p>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Contribution Stats</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodeWithSudhanshu&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSudhanshu&layout=compact&theme=gruvbox&hide_border=true" />
-</p>
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=CodeWithSudhanshu&theme=gruvbox&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=CodeWithSudhanshu&theme=dark&hide_border=true&border_radius=8"
+    width="80%"
+  />
 </p>
 
 
