@@ -84,7 +84,6 @@ Building intelligent solutions, exploring modern web technologies, and solving r
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
----
 
 ## 🌟 Featured Projects
 
