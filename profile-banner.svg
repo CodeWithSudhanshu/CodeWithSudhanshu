@@ -1,0 +1,33 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4037A5"></stop>
+      <stop offset="55%" stop-color="#2857A4"></stop>
+      <stop offset="100%" stop-color="#07899B"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="280" fill="url(#bg)"></rect>
+
+  <!-- Back wave -->
+  <path d="M0 220
+       C180 245 300 195 500 215
+       C700 240 850 175 1200 220
+       L1200 280
+       L0 280 Z" fill="#17496B"></path>
+
+  <!-- Front wave -->
+  <path d="M0 250
+       C180 215 330 225 520 235
+       C720 250 950 205 1200 250
+       L1200 280
+       L0 280 Z" fill="#0D1117"></path>
+
+  <!-- Name -->
+  <text x="600" y="150" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" fill="#E63946"">
+    Sudhanshu Sharma
+  </text>
+
+</svg>
