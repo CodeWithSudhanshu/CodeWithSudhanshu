@@ -129,12 +129,45 @@ Building intelligent solutions, exploring modern web technologies, and solving r
 
 ## 🌱 Currently Learning
 
-* MERN Stack
-* System Design Fundamentals
-* DSA
-* Computer Vision & Deep Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MERN-Full%20Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System%20Design-LLD%20%7C%20APIs-6C63FF?style=for-the-badge"/>
+</p>
 
----
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Software Engineering
+
+* 🧩 **Data Structures & Algorithms**
+* 🏗️ **System Design Fundamentals**
+* 🧱 **Low-Level Design (LLD)**
+* 🔌 **REST APIs & Backend Development**
+* 🌐 **MERN Stack**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & Emerging Technologies
+
+* 👁️ **Computer Vision & Deep Learning**
+* 🧠 **LLMs & Generative AI**
+* 🔎 **RAG (Retrieval-Augmented Generation)**
+* 🤖 **Agentic AI**
+* 🔗 **MCP & AI Tool Integration**
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <i>🚀 Learning by building real-world projects and solving problems.</i>
+</p>
+
 
 
 ## 🖥️ Coding Profiles
